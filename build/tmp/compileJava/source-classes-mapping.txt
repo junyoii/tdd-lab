@@ -1,0 +1,6 @@
+chap02/Calculator.java
+ chap02.Calculator
+chap02/PasswordStrength.java
+ chap02.PasswordStrength
+chap02/PasswordStrengthMeter.java
+ chap02.PasswordStrengthMeter
