@@ -4,3 +4,8 @@ chap02/PasswordStrength.java
  chap02.PasswordStrength
 chap02/PasswordStrengthMeter.java
  chap02.PasswordStrengthMeter
+chap03/ExpiryDateCalculator.java
+ chap03.ExpiryDateCalculator
+chap03/PayData.java
+ chap03.PayData
+ chap03.PayData$Builder
